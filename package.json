@@ -21,6 +21,6 @@
     "inquirer": "6.2.2"
   },
   "bin": {
-    "muambas.net": "./index.js"
+    "projeto-muambas": "./index.js"
   }
 }
