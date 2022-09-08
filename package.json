@@ -1,0 +1,26 @@
+{
+  "name": "muambas.net",
+  "version": "1.0.0",
+  "description": "Apresentação dos membros do muambas - CLI style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume",
+    "cli",
+    "npm",
+    "package",
+    "muambas",
+    "muambas.net"
+  ],
+  "author": "Muambas.net",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "2.4.2",
+    "inquirer": "6.2.2"
+  },
+  "bin": {
+    "muambas.net": "./index.js"
+  }
+}
