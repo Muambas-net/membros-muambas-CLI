@@ -1,6 +1,6 @@
 {
   "name": "muambas.net",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Apresentação dos membros do muambas - CLI style",
   "main": "index.js",
   "scripts": {
