@@ -1,5 +1,5 @@
 {
-  "name": "muambas.net",
+  "name": "projeto-muambas",
   "version": "1.0.3",
   "description": "Apresentação dos membros do muambas - CLI style",
   "main": "index.js",
@@ -12,7 +12,8 @@
     "npm",
     "package",
     "muambas",
-    "muambas.net"
+    "muambas.net",
+    "projeto muambas"
   ],
   "author": "Muambas.net",
   "license": "ISC",
